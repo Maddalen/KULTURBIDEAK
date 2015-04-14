@@ -1,0 +1,15 @@
+setup.py
+src/BASQUE_RESEARCH.egg-info/PKG-INFO
+src/BASQUE_RESEARCH.egg-info/SOURCES.txt
+src/BASQUE_RESEARCH.egg-info/dependency_links.txt
+src/BASQUE_RESEARCH.egg-info/requires.txt
+src/BASQUE_RESEARCH.egg-info/top_level.txt
+src/KULTURBIDEAK/__init__.py
+src/KULTURBIDEAK/manage.py
+src/KULTURBIDEAK/settings.py
+src/KULTURBIDEAK/urls.py
+src/KULTURBIDEAK/wsgi.py
+src/KULTURBIDEAK/kulturbideak_app/__init__.py
+src/KULTURBIDEAK/kulturbideak_app/forms.py
+src/KULTURBIDEAK/kulturbideak_app/models.py
+src/KULTURBIDEAK/kulturbideak_app/views.py
